@@ -53,6 +53,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitali808&" alt="chaitali808" /></p>
 
 <h3 align="left">Profile views:</h3>
-<img align ="right" alt = "coding" width ="400" src ="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitali808&label=Profile%20views&color=0e75b6&style=flat" alt="chaitali808" /> </p>
 
