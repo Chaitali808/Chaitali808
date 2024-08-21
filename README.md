@@ -1,12 +1,22 @@
 <h1 align="center">Hi 👋, I'm Chaitali bhavsar</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
-<img align ="right" alt = "coding" width ="400" src ="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitali808&label=Profile%20views&color=0e75b6&style=flat" alt="chaitali808" /> </p>
+<h4 align="center">My Portfolio:  </h4>
+<div align="center">
+  <a align="center" ">
+    <strong>My Resume</strong>
+  </a>
+</div>
+
+##About Me
 - 🔭 I’m B.Tech Computer Science Graduating in 2025.
+
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
+  
 - 👨‍💻 Developing the Web Applications.
-- 👨‍💻 All of my projects are available at [https://github.com/Chaitali808](https://github.com/Chaitali808)
+  
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Chaitali808)
+  
 - 📫 How to reach me **chaitalibhavsar81@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -25,3 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitali808&show_icons=true&locale=en" alt="chaitali808" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitali808&" alt="chaitali808" /></p>
+
+<h3 align="left">Profile views:</h3>
+<img align ="right" alt = "coding" width ="400" src ="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitali808&label=Profile%20views&color=0e75b6&style=flat" alt="chaitali808" /> </p>
+
