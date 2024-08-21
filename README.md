@@ -8,7 +8,7 @@
   </a>
 </div>
 
-##About Me
+<h3 align="left">About Me: </h3>
 - 🔭 I’m B.Tech Computer Science Graduating in 2025.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
