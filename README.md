@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img  width ="200" src="https://camo.githubusercontent.com/e5d6b31753a9be35c62a185bbf56818ed6086ffc28543d82f4d28cb53e43d179/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f68652f617661746172732f706e672f6d656d6f5f32302e706e67"alt="My Avatar">
+    <img  width ="200" src="https://camo.githubusercontent.com/238055d74a4a963ecc573726f31395a1d523e264c3f17ed5316ca13e21c8a3dc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f68652f617661746172732f706e672f6d656d6f5f32302e706e67"alt="My Avatar">
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Chaitali bhavsar</h1>
