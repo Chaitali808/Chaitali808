@@ -6,12 +6,17 @@
 <h1 align="center">Hi 👋, I'm Chaitali bhavsar</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
-<h4 align="center">My Portfolio  </h4>
+<h4 align="center">My Portfolio</h4>
 <div align="center">
+  <a href="https://chaitalibhavsarportfolio.netlify.app/" target="_blank">
+    <strong>Visit My Portfolio</strong>
+  </a>
+</div>
+<!-- <div align="center">
   <a align="center" ">
     <strong>My Resume</strong>
   </a>
-</div>
+</div> -->
 <img align ="right" alt = "coding" width ="400" src ="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif">
 <h3 align="left">About Me: </h3>
 - 🔭 I’m B.Tech Computer Science Graduating in 2025.
